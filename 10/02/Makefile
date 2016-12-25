@@ -3,4 +3,3 @@ build: hello.s
 
 clean:
 	rm -f hello hello.o
-	
